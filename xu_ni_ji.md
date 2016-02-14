@@ -6,7 +6,7 @@
 
 下载：
 
-VirtualBox-5.0.0-101573-Win.exe.torrent
+VirtualBox-5.0.0-101573-Win.exe
 
 链接: http://pan.baidu.com/s/1gdUiKX9 密码: 4gxe
 
