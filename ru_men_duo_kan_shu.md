@@ -1,6 +1,6 @@
 # 入门多看书
 
-1.0-计算机科学概论(第11版).(美)布鲁克希尔.扫描版.PDF.torrent
+计算机科学概论(第11版).(美)布鲁克希尔.扫描版.PDF
 
 链接：http://pan.baidu.com/s/1kUsxjN5 密码：sn2o
 
@@ -8,7 +8,7 @@
 
 http://yunpan.cn/cuIV7cN8I7c7Y 访问密码 1077
 
-编程语言 百度百科.pdf.torrent
+编程语言 百度百科.pdf
 
 链接：http://pan.baidu.com/s/1gerjz8Z 密码：nzf5
 
