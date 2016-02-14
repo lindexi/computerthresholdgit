@@ -16,5 +16,5 @@
    * [python](python.md)
    * [php](php.md)
 * [算法](suan_fa.md)
-* Linux
+* [Linux](linux.md)
 
