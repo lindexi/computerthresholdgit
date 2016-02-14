@@ -30,7 +30,8 @@ http://yunpan.cn/cuIVI4nbJ2WSY 访问密码 9a77
 
 链接：http://pan.baidu.com/s/1hrb8qRa 密码：5maq
 
-C语言 极客学院
+[C语言 极客学院](http://www.jikexueyuan.com/course/c/)
+
 
 
 
