@@ -1,6 +1,6 @@
 # 入门多看书
 
-计算机科学概论(第11版).(美)布鲁克希尔.扫描版.PDF
+[计算机科学概论(第11版).(美)布鲁克希尔.扫描版.PDF](http://baike.baidu.com/link?url=OPSzPeKZXB1zQARe3vPSEGkihwuM4ammtnSsEZ4Uc_PCYyesezS9WCBMXAvSB84S7W5hccflXFMVHarny9IIiRl-WpIe5Zlh_lcnZQLYxt7)
 
 链接：http://pan.baidu.com/s/1kUsxjN5 密码：sn2o
 
