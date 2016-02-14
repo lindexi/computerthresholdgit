@@ -1,4 +1,13 @@
-My Awesome Book
+软工入门
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+我把书籍，视频做种，传网盘，如果还是不能使用，请百度搜索。
+
+入门具有实时，所以这篇文章写于2016年1月10日
+
+有效期应该在2016年内还可以用
+
+本文主要为建议
+
+因为现在大家也是大人了，要有自己的想法，里面很多观点都来自于我自己，适不适合我就不知道
+
