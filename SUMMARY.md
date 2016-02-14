@@ -6,4 +6,5 @@
    * [多去水论坛](duo_qu_shui_lun_tan.md)
    * [看博客](kan_bo_ke.md)
 * [C](c.md)
+* 虚拟机
 
