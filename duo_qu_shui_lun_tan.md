@@ -26,5 +26,5 @@
  - [www.sf.net](www.sf.net)
 
 
- - http://mooc.study.163.com
+ - [http://mooc.study.163.com](http://mooc.study.163.com)
 
