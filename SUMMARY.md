@@ -15,6 +15,7 @@
    * [java](java.md)
    * [python](python.md)
    * [php](php.md)
+   * html
 * [算法](suan_fa.md)
 * [Linux](linux.md)
 * [git](git.md)
