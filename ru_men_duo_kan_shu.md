@@ -23,3 +23,7 @@ http://yunpan.cn/cuIV7cN8I7c7Y 访问密码 1077
 《重构：改善既有代码的设计》
 
 《Effective C++》
+
+计算机科学的基础
+
+http://www.ituring.com.cn/book/1019
