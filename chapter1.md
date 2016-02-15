@@ -30,5 +30,38 @@
 - [从零开始写框架](http://jayli.github.io/blog/data/2010/12/11/writejslib.html) (@jayli)
 
 
+## 自己动手
+
+- [一天时间用 Python 写门语言](http://justjavac.com/python/2012/04/13/one-day-write-language-in-python.html) (justjavac博客)
+
+- [利用 Composer 一步一步构建自己的 PHP 框架](http://lvwenhan.com/php/405.html) (岁寒博客 by JohnLui)
+
+- [自己动手写虚拟机](http://www.cnblogs.com/john-d/archive/2009/12/05/1617710.html) (博客园)
+
+- [自己动手写 HTTP Server](http://blog.csdn.net/heiyeshuwu/article/details/2576915) #C (CSDN)
+
+- [自己动手写 GC](http://it.deepinmind.com/gc/2014/03/26/babys-first-garbage-collector.html) (Java译站)
+
+- [自己动手写一个推荐系统](http://www.cnblogs.com/flclain/archive/2013/03/03/2941397.html) #Python (博客园)
+
+- [自己动手写压缩软件](http://www.cnblogs.com/BlueSky2012/articles/huffman_zip.html) #C++ (博客园)
+
+- [自己动手开发编译器](http://www.cnblogs.com/Ninputer/archive/2011/06/06/2073908.html) (博客园)
+
+- [自己动手写俄罗斯方块](http://toigel.blog.51cto.com/2141741/415348) #C (51CTO)
+
+- [自己动手写编辑器](http://www.phodal.com/blog/lumia-editor-diy-yourself-editor/) #nodejs (@phodal)
+
+- [自己动手写 Git HTTP Server](http://io-meter.com/2014/07/09/simple-git-http-server/) #go (io-meter)
+
+- [使用 Symfony2 的组件创建自己的 PHP 框架](http://www.chrisyue.com/?p=270) (@chrisyue)
+
+- [数据库的最简单实现](http://www.ruanyifeng.com/blog/2014/07/database_implementation.html) (阮一峰)
+
+- [动手写一个C语言编译器](http://blog.jobbole.com/77305/) (伯乐在线)
+
+- [一起写一个 Web 服务器](http://python.jobbole.com/81524/) (伯乐在线)
+
+- [自己动手写 Basic 解释器](http://blog.csdn.net/littlehedgehog/article/details/2928391) (CSDN)
 
 
