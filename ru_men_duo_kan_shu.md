@@ -27,14 +27,23 @@ http://yunpan.cn/cuIV7cN8I7c7Y 访问密码 1077
 ##经典
 
 - [《浪潮之巅 第二版》](http://item.jd.com/11253183.html)
+
 - [《数学之美 第二版》](http://item.jd.com/11572052.html)
+
 - [《MacTalk•人生元编程》](http://item.jd.com/11398297.html)
+
 - [《MacTalk 跨越边界》](http://item.jd.com/11803342.html)
+
 - [《程序员代码面试指南》](http://item.jd.com/11770838.html)
+
 - [《互联网 ：从IT到DT》](http://item.jd.com/11678700.html)
+
 - [《写给大家看的项目管理书（第3版）》](http://item.jd.com/11781053.html)
+
 - [《代码大全(第二版)英文版》](http://item.jd.com/10066493.html)
+
 - [《增长黑客：创业公司的用户与收入增长秘籍》](http://item.jd.com/11732259.html)
+
 ![](20160218151537706.jpg)
 
 ##算法类
