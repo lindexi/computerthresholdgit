@@ -6,6 +6,11 @@
 
 
  - http://www.cnblogs.com/mushroom/p/5080032.html
+http://xamlnative.com/
+http://wdxtub.com/about/
 
+http://stackoverflow.com/questions/32153880/how-to-render-inkcanvas-to-an-image-in-uwp-windows-10-application/32551620
+
+https://blogs.windows.com/buildingapps/2015/09/08/going-beyond-keyboard-mouse-and-touch-with-natural-input-10-by-10/
 
 
