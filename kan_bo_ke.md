@@ -13,4 +13,9 @@ http://stackoverflow.com/questions/32153880/how-to-render-inkcanvas-to-an-image-
 
 https://blogs.windows.com/buildingapps/2015/09/08/going-beyond-keyboard-mouse-and-touch-with-natural-input-10-by-10/
 
+https://100offer.com/
+
+http://www.searchdatabase.com.cn/
+
+
 
