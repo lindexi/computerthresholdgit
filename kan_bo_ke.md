@@ -19,5 +19,7 @@ https://100offer.com/
 
 http://www.searchdatabase.com.cn/
 
+http://www.techug.com/
+
 
 
