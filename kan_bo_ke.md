@@ -21,5 +21,9 @@ http://www.searchdatabase.com.cn/
 
 http://www.techug.com/
 
+http://www.cnblogs.com/youngytj
+
+http://www.cnblogs.com/mantgh
+
 
 
