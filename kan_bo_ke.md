@@ -9,6 +9,8 @@
 
 很多大神有个人博客，这些我发下面
 
+http://www.liaoxuefeng.com/ 
+
  - http://www.cnblogs.com/mushroom/p/5080032.html
  - 
 http://xamlnative.com/
