@@ -20,3 +20,6 @@ https://book.douban.com/subject/10432347/
  链接：http://pan.baidu.com/s/1hqObztq 密码：gnmk
 
 - 算法竞赛入门经典第二版
+
+- 数据结构与算法分析——C语言描述
+  ![算法](http://img3.douban.com/lpic/s1106991.jpg)
