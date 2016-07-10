@@ -6,6 +6,8 @@
 
 这本书入门看有点难，看不懂跳过
 
+如果是学Java可以买 https://book.douban.com/subject/10432347/
+
 [挑战程序设计竞赛(第2版)].巫泽俊.扫描版.pdf
 
 链接：http://pan.baidu.com/s/1hqObztq 密码：gnmk
