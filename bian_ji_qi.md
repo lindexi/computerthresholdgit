@@ -19,4 +19,7 @@ UltraEdit
 tmux:高效的全键盘开发工具
 
 [code blocks](code blocks.md)
+
+Visual studio
+世界上最好的IDE，可以在http://visualstudio.com/ 下，安装简单，当然需要Windows系统
  
