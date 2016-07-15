@@ -25,21 +25,5 @@ http://www.cnblogs.com/youngytj
 
 http://www.cnblogs.com/mantgh
 
-http://www.dpvreony.co.uk/
- 
-http://www.bartlannoeye.com/blog/moving-to-windows-10-semanticzoom
- 
-http://shallowware.tumblr.com/
- 
-http://garen.yondem.com/
- 
-https://blog.kulman.sk/
- 
-http://www.gep13.co.uk/blog/
- 
-http://hashhar.github.io/
- 
-http://edi.wang
-
 
 
