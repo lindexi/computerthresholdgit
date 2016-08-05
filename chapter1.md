@@ -64,5 +64,5 @@
 * [自己动手写 Basic 解释器](http://blog.csdn.net/littlehedgehog/article/details/2928391) \(CSDN\)
 
 
- **很认真地聊一聊程序员的自我修养**  http:\/\/www.techug.com\/talk-about-programmer-self-cultivation
+ **很认真地聊一聊程序员的自我修养**  http://www.techug.com/talk-about-programmer-self-cultivation
 
