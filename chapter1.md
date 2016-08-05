@@ -9,6 +9,8 @@
 
 ![网易](20161101532.png)
 
+对于很多课程的，并不能体会到学好那有什么好处，可以看http://blog.csdn.net/yysyangyangyangshan/article/details/7480848
+
 ## 零基础入门
 
 * [从零开始写个编译器吧系列](http://zhuanlan.zhihu.com/mosky/19878087)  \(知乎专栏\)
